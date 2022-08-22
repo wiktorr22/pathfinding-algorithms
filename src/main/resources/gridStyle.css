@@ -1,0 +1,31 @@
+ #checked{
+    -fx-background-color:  coral;
+}
+ #start{
+    -fx-background-color: dodgerblue;
+}
+
+ #goal{
+    -fx-background-color: green;
+}
+ #seen{
+    -fx-background-color: #fdf997;
+}
+
+
+
+ #open{
+    -fx-background-color: #adadad;
+}
+
+ #obstacle{
+     -fx-background-color: #000000;
+ }
+
+ .button{
+     -fx-font-size: 7;
+ }
+
+
+
+
